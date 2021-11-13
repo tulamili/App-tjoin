@@ -1,6 +1,6 @@
-package App::colsummary ;  
-our $VERSION = '0.060' ; 
-our $DATE = '2021-11-13T12:32+09:00' ; 
+package App::tjoin ;  
+our $VERSION = '0.061' ; 
+our $DATE = '2021-11-13T14:42+09:00' ; 
 
 =encoding utf8
 =head1 NAME
